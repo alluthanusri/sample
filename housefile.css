@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://cdnassets.hw.net/ab/75/a4bc752f41f288d3e45c29454cdb/9b03a91b55f5408980862881d9255102.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    height:20px;
+    text-align: right;
+   }
+.navbar li a{
+    text-decoration: none;
+}
+.navbar li{
+    display:inline;
+    list-style:none;
+    margin-top:5px;
+    margin-left:100px;
+}
+.hoveritem a:hover{
+    color:black;
+    text-decoration:underline;
+
+}
+.hover2item a:hover{
+    color:black;
+    border-bottom:2px solid black
+}
+.hover3item a:hover{
+    color:black;
+    text-decoration:underline;
+}
+.hover4item a:hover{
+     color:black;
+     text-decoration:underline;
+}
+.hover5item a:hover{
+    color:black;
+    text-decoration:underline;
+}
+.rectangle
+{
+text-align:center;  
+
+}  
+

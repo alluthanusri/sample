@@ -1,0 +1,63 @@
+* header{ 
+    position:fixed;
+    background-color:yellow;
+    display: flex;
+    flex-flow:column;
+    padding:8rem,2rem;
+}
+.div1{
+    background-color:black;
+    height:100%;
+    width:90px;
+ 
+.div2{
+    background-color:yellow;
+    height:250px;
+    width:90px;
+ } */
+.navbar{
+    text-align: left;
+    position: absolute;
+    bottom: 500px;
+}
+.navbar li{
+    display:inline-block;
+    margin-right: 50px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/delicious-fresh-cooked-burger-with-a-side-of-french-fries-picture-id177556385?k=20&m=177556385&s=612x612&w=0&h=LZdKlgkLKaT_fvyqdMz7dAWfVuf6styKqHhOgIZGn5M=);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+/* .item{
+    display:block;
+    height:300px;
+    width:50px;
+    background-color: yellow;
+}
+.item2{
+    display:block;
+    position: static;
+    width:50px; 
+    height:300px;
+    background-color:black
+}*/
+.inn{
+    background-color: black;
+    height: 400px;
+    width: 70px;
+    
+    
+    
+
+}
+.imm{
+    background-color: yellow;
+    height: 300px;
+    width: 70px;
+}
+.iss{
+    position: absolute;
+    bottom: 300px;
+    left: 60px;
+}
